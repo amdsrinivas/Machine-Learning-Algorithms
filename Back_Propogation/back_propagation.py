@@ -8,7 +8,7 @@ features = np.asarray([1,0,1])
 targets = np.asarray([1])
 #print(features)
 
-# hidden layer with 3 units
+# hidden layer with 2 units
 
 layer1_weights = np.random.randn(2,3)
 layer1_biases = np.random.normal(size=2)
